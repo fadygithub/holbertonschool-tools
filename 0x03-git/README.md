@@ -10,4 +10,4 @@
 
 
 
-Git is starting to get easier
+I am updating this README file from github.com as requested from task 3 0x00-git section
