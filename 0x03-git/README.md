@@ -8,3 +8,6 @@
 
 ### 3. Collaboration: be up to date 
 
+
+
+Git is starting to get easier
